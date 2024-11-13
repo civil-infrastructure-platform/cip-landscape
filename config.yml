@@ -1,0 +1,11 @@
+landscapeMemberClasses: 
+  - name: Platinum Membership
+    category: Platinum
+  - name: Gold Membership
+    category: Gold
+  - name: Silver Membership
+    category: Silver
+  - name: Associate Membership
+    category: Associate
+slug: cip
+landscapeMemberCategory: CIP Members

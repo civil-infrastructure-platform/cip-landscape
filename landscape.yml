@@ -1,0 +1,76 @@
+landscape:
+  - category:
+    name: CIP Members
+    subcategories:
+      - subcategory:
+        name: Platinum
+        items:
+          - item:
+            name: Renesas Electronics Corporation
+            homepage_url: https://renesas.com/
+            logo: renesas_electronics_corporation.svg
+            twitter: https://twitter.com/RenesasGlobal
+            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
+          - item:
+            name: Siemens AG
+            homepage_url: https://siemens.com/
+            logo: siemens_ag.svg
+            twitter: https://twitter.com/Siemens
+            crunchbase: https://www.crunchbase.com/organization/siemens
+          - item:
+            name: Toshiba Corporation
+            homepage_url: https://toshiba.com/
+            logo: toshiba_corporation.svg
+            twitter: https://twitter.com/ToshibaAmerica
+            crunchbase: https://www.crunchbase.com/organization/toshiba-america-electronic-components
+      - subcategory:
+        name: Gold
+        items:
+          - item:
+            name: Texas Instruments Incorporated
+            homepage_url: https://ti.com/
+            logo: texas_instruments_incorporated.svg
+            twitter: https://twitter.com/TXInstruments
+            crunchbase: https://www.crunchbase.com/organization/texas-instruments
+      - subcategory:
+        name: Silver
+        items:
+          - item:
+            name: Andes Technology Corporation
+            homepage_url: https://andestech.com/
+            logo: andes_technology_corporation.svg
+            twitter: https://twitter.com/Andes_Tech
+            crunchbase: https://www.crunchbase.com/organization/andes-technology
+          - item:
+            name: Cybertrust Japan Co., Ltd.
+            homepage_url: https://cybertrust.co.jp/
+            logo: cybertrust_japan_co_ltd.svg
+            twitter: https://twitter.com/Cybertrust_JP
+            crunchbase: https://www.crunchbase.com/organization/cybertrust
+          - item:
+            name: Hitachi, Ltd.
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
+            twitter: https://twitter.com/HitachiGlobal
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+          - item:
+            name: Linutronix GmbH
+            homepage_url: https://linutronix.de/
+            logo: linutronix_gmbh.svg
+            twitter: https://twitter.com/linutronix_LX
+            crunchbase: https://www.crunchbase.com/organization/linutronix
+          - item:
+            name: Moxa Inc.
+            homepage_url: https://moxa.com/
+            logo: moxa_inc.svg
+            twitter: https://twitter.com/MoxaInc
+            crunchbase: https://www.crunchbase.com/organization/moxa
+          - item:
+            name: Plat'Home Co., Ltd
+            homepage_url: https://plathome.co.jp/
+            logo: plat_home_co.svg
+            twitter: https://twitter.com/openblocks
+            crunchbase: https://www.crunchbase.com/organization/plat-home
+      - subcategory:
+        name: Associate
+        items: []
