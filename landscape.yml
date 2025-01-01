@@ -105,13 +105,6 @@ landscape:
             description: Moxa Technologies is a Taiwanese technology company specializing in edge connectivity, industrial computing, and network infrastructure solutions.
             extra:
               linkedin_url: https://www.linkedin.com/company/moxa
-          - item:
-            name: Plat'Home Co., Ltd
-            homepage_url: https://plathome.co.jp/
-            logo: plat_home_co.svg
-            twitter: https://twitter.com/openblocks
-            crunchbase: https://www.crunchbase.com/organization/plat-home
-            description: 大手通信キャリアやクラウド事業者にも導入されている、累計10万台を超える手のひらサイズのマイクロサーバー、OpenBlocksを取り扱う、ぷらっとホーム株式会社の公式アカウントです。ニュースをつぶやいたりRTしたりします。
       - subcategory:
         name: Associate
         items: []
