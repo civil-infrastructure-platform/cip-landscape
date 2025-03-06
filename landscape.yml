@@ -42,7 +42,17 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/toshiba-corporation
       - subcategory:
         name: Gold
-        items: []
+        items:
+          - item:
+            name: Texas Instruments Incorporated
+            homepage_url: https://ti.com/
+            logo: texas_instruments_incorporated.svg
+            description: Texas Instruments, widely known as TI, is an American company based in Dallas, Texas. TI is renowned for developing and commercializing semiconductor and computer
+              technology.
+            crunchbase: https://www.crunchbase.com/organization/texas-instruments
+            twitter: https://twitter.com/TXInstruments
+            extra:
+              linkedin_url: https://www.linkedin.com/company/national-semiconductor
       - subcategory:
         name: Silver
         items:
