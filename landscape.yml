@@ -9,10 +9,7 @@ landscape:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
-            description: Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, intelligent
-              devices to enhance the way people work and livesecurely and safely. The number one global supplier of microcontrollers, and a leader in Analog & Power and SoC products,
-              Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive, Industrial, Home Electronics (HE), Office Automation (OA) and Information
-              Communication Technology (ICT) applications to help shape a limitless future.
+            description: Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, intelligent devices to enhance the way people work and livesecurely and safely. The number one global supplier of microcontrollers, and a leader in Analog & Power and SoC products, Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive, Industrial, Home Electronics (HE), Office Automation (OA) and Information Communication Technology (ICT) applications to help shape a limitless future.
             crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
             twitter: https://twitter.com/RenesasGlobal
             extra:
@@ -21,10 +18,7 @@ landscape:
             name: Siemens AG
             homepage_url: https://siemens.com/
             logo: siemens_ag.svg
-            description: Founded in 1847, Siemens is a global technology company focusing on electrification, automation, and digitalization. Siemens is a producer of energy-efficient,
-              resource-saving technologies, creating offshore wind turbine construction, and is a supplier of gas and steam turbines for power generation. Siemens is a provider of power
-              transmission and infrastructure solutions as well as automation, drive and software solutions. The company also provides medical imaging equipment such as computed tomography
-              and magnetic resonance imaging systems. Siemens is headquartered in Munich, Germany.
+            description: Founded in 1847, Siemens is a global technology company focusing on electrification, automation, and digitalization. Siemens is a producer of energy-efficient, resource-saving technologies, creating offshore wind turbine construction, and is a supplier of gas and steam turbines for power generation. Siemens is a provider of power transmission and infrastructure solutions as well as automation, drive and software solutions. The company also provides medical imaging equipment such as computed tomography and magnetic resonance imaging systems. Siemens is headquartered in Munich, Germany.
             crunchbase: https://www.crunchbase.com/organization/siemens
             twitter: https://twitter.com/Siemens
             extra:
@@ -33,9 +27,7 @@ landscape:
             name: Toshiba Corporation
             homepage_url: https://toshiba.com/
             logo: toshiba_corporation.svg
-            description: Toshiba Corporation leads a global group of companies that offer a diversified product range and services including information technology and communications
-              equipment and systems, electronic components and materials, power systems, industrial and social infrastructure systems, consumer electronics, home appliances, medical
-              equipment, office equipment, and lighting and logistics. Toshiba was founded in 1939 and is globally headquartered in Minato, Tokyo, Japan.
+            description: Toshiba Corporation leads a global group of companies that offer a diversified product range and services including information technology and communications equipment and systems, electronic components and materials, power systems, industrial and social infrastructure systems, consumer electronics, home appliances, medical equipment, office equipment, and lighting and logistics. Toshiba was founded in 1939 and is globally headquartered in Minato, Tokyo, Japan.
             crunchbase: https://www.crunchbase.com/organization/toshiba-america-electronic-components
             twitter: https://twitter.com/ToshibaAmerica
             extra:
@@ -47,8 +39,7 @@ landscape:
             name: Texas Instruments Incorporated
             homepage_url: https://ti.com/
             logo: texas_instruments_incorporated.svg
-            description: Texas Instruments, widely known as TI, is an American company based in Dallas, Texas. TI is renowned for developing and commercializing semiconductor and computer
-              technology.
+            description: Texas Instruments, widely known as TI, is an American company based in Dallas, Texas. TI is renowned for developing and commercializing semiconductor and computer technology.
             crunchbase: https://www.crunchbase.com/organization/texas-instruments
             twitter: https://twitter.com/TXInstruments
             extra:
@@ -60,11 +51,7 @@ landscape:
             name: Andes Technology Corporation
             homepage_url: https://andestech.com/
             logo: andes_technology_corporation.svg
-            description: 'As a Founding Premier member of RISC-V International with a long heritage in providing leading, commercial CPU IP, Andes Technology (TWSE: 6533; SIN: US03420C2089;
-              ISIN: US03420C1099) is the driving force in taking RISC-V mainstream.  Andes RISC-V Processor IP portfolio ranges from area- and power-efficient 32-bit CPUs to high-performance,
-              64-bit Out-of-Order multiprocessor coherent clusters.  With advanced DSP, vector, and Andes Automated Custom Extensions (ACE) capabilities, along with robust software support,
-              Andes empowers customers across AI, automotive, communications, consumer, data center, and mobile markets to harness full potential of RISC-V.  Over 16 billion Andes-based
-              SoCs are powering innovations globally. For more information, visit https://www.andestech.com. Follow Andes on LinkedIn, Twitter and YouTube'
+            description: 'As a Founding Premier member of RISC-V International with a long heritage in providing leading, commercial CPU IP, Andes Technology (TWSE: 6533; SIN: US03420C2089; ISIN: US03420C1099) is the driving force in taking RISC-V mainstream.  Andes RISC-V Processor IP portfolio ranges from area- and power-efficient 32-bit CPUs to high-performance, 64-bit Out-of-Order multiprocessor coherent clusters.  With advanced DSP, vector, and Andes Automated Custom Extensions (ACE) capabilities, along with robust software support, Andes empowers customers across AI, automotive, communications, consumer, data center, and mobile markets to harness full potential of RISC-V.  Over 16 billion Andes-based SoCs are powering innovations globally. For more information, visit https://www.andestech.com. Follow Andes on LinkedIn, Twitter and YouTube'
             crunchbase: https://www.crunchbase.com/organization/andes-technology
             twitter: https://twitter.com/Andes_Tech
             extra:
@@ -80,9 +67,7 @@ landscape:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
-            description: Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and equipment,
-              construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other products, and financial services in Japan
-              and internationally. The company is headquartered in Tokyo, Japan.
+            description: Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and equipment, construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other products, and financial services in Japan and internationally. The company is headquartered in Tokyo, Japan.
             crunchbase: https://www.crunchbase.com/organization/hitachi
             twitter: https://twitter.com/HitachiGlobal
             extra:
