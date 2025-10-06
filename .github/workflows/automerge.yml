@@ -3,7 +3,7 @@ name: Automerge PRs from LFX Landscape Tools
 on:
   workflow_dispatch:
   schedule:
-  - cron: "45 4 * * *"
+  - cron: "45 21 * * *"
 
 jobs:
   build:
@@ -16,4 +16,3 @@ jobs:
           MERGE_RETRY_SLEEP: 300000
           MERGE_METHOD: "squash"
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          LOG: "TRACE"
