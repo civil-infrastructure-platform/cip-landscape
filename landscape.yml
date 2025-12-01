@@ -57,6 +57,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/doble-engineering
           - item:
+            name: ARONETICS
+            homepage_url: https://aronetics.com/
+            logo: aronetics.svg
+            description: Computer consultancy in the field of infrastructure security and analytics; Technical support, pure defensive infosec convergence with Thor across computers
+            twitter: https://twitter.com/Aronetics
+            organization:
+              name: ARONETICS
+              linkedin: https://www.linkedin.com/company/aronetics
+            extra:
+              linkedin_url: https://www.linkedin.com/company/aronetics
+          - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
             logo: cybertrust_japan_co_ltd.svg
