@@ -1,1 +1,1 @@
-# **NOTE: If you are requesting updates to project or member organization information, please [follow the instructions in the README.md file](https://github.com/jmertic/lf-landscape/blob/main/README.md).
+# **NOTE: If you are requesting updates to project or member organization information, please [follow the instructions in the README.md file](https://github.com/civil-infrastructure-platform/cip-landscape/blob/main/README.md).
