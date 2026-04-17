@@ -1,6 +1,6 @@
 # Civil Infrastructure Platform (CIP) Landscape
 
-![Landscape Logo](https://www.cip-project.org/wp-content/uploads/sites/17/2024/07/civil-infrastructure-platform_cip_logo_color-horizontal.svg)
+![Landscape Logo](https://cip.landscape2.io/images/logo_header.svg)
 
 This landscape is intended as a map to explore the member companies of the Civil Infrastructure Platform (CIP). It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open-source code.
 
