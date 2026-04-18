@@ -53,9 +53,6 @@ landscape:
             logo: aronetics.svg
             description: Computer consultancy in the field of infrastructure security and analytics; Technical support, pure defensive infosec convergence with Thor across computers
             twitter: https://twitter.com/Aronetics
-            organization:
-              name: ARONETICS
-              linkedin: https://www.linkedin.com/company/aronetics
             extra:
               linkedin_url: https://www.linkedin.com/company/aronetics
           - item:
